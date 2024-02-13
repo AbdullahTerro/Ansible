@@ -24,7 +24,7 @@ Learning Objectives
 
 Create the User Accounts Noted in `/home/ansible/userlist.txt`
 
-    ansible dbsystems -b -m user -a "name=consultant"
+    ansible dbsystems -b -m user -a "name=consultant"           #(-b) mean Become
     ansible dbsystems -b -m user -a "name=supervisor"
 
 Place Key Files in the Correct Location, `/home/$USER/.ssh/authorized_keys`, on Hosts in `dbsystems`
