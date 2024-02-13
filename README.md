@@ -5,4 +5,4 @@ makit easy to build and rebuild the Infrastructure
 
 
 Third LAB Ad-Hoc Ansible Command
-![Uploading image.png…]()
+![image](https://github.com/AbdullahTerro/Ansible/assets/77760422/c409fb59-daf8-4c06-8ff1-140dade3d221)
